@@ -1,0 +1,3 @@
+.ce-my-message-body {
+    background-color: red !important; /* Use inspect element to find class name */
+}
